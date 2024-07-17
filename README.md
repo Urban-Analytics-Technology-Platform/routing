@@ -1,5 +1,7 @@
 # A collection of resources about routing
 
+"The Hitchhiker's Guide to Routing"
+
 "The road not taken but still searched: practical advice from years working on routing-related software"
 
 WARNING: These are just draft notes; this guide is not ready for use yet.
@@ -199,3 +201,7 @@ multi start / multi end
   - can be a full vector. at the end of the day, needs to support sum() and min()
 - testing / how to tune edge costs, if you have known counts on some edges?
 - maybe just have a simple web frontend where people can write custom python for edge costs
+
+
+https://github.com/binhrobles/rusty-bikes
+has good interactive visualization
